@@ -2,8 +2,9 @@
 
 <img
   class="fit-picture"
-  src="/img/cover.png"
-  alt="Cover" />
+  src="/img/cover_two.png"
+  alt="Cover" 
+  style="width:100%;"/>
 
 Currently studying IT engineering, I have a strong passion for the environment and aim to steer my career in that direction. My constant desire to engage and explore new fields is a core aspect of my personality. I enjoy experimenting and discovering new perspectives to enrich my skills.
 
